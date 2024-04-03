@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=Discord-ROIP
+Exec=sh -c "sleep 10; sh ~/Discord-ROIP/autostart.sh"
+StartupNotify=false
+Terminal=false
